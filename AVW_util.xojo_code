@@ -31,8 +31,6 @@ Protected Module AVW_util
 		  // used to call a function that returns a boolean but then not use the result
 		  // in c++ this would be done via casting to void :
 		  // (void)some_func();
-		  
-		  
 		End Sub
 	#tag EndMethod
 
